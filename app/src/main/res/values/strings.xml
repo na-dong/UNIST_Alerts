@@ -1,12 +1,9 @@
 <resources>
-    <string name="app_name">UNISTAlerts</string>
+    <string name="app_name">UNIST_Alerts</string>
 
     <string name="title_section1">BBS</string>
-    <string name="title_section2">식단표</string>
-    <string name="title_section3">캘린더</string>
-
-    <string name="sample_subject">게시글명</string>
-    <string name="sample_subtitle">게시판명</string>
+    <string name="title_section2">학사일정</string>
+    <string name="title_section3">식단표</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
